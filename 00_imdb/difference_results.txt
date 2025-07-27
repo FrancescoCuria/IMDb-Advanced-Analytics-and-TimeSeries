@@ -1,0 +1,151 @@
+Number of rows with specific differences:
+Number of rows with 1 element(s) of difference: 5031
+Number of rows with 2 element(s) of difference: 296
+Number of rows with 3 element(s) of difference: 40
+Number of rows with 4 element(s) of difference: 11
+Number of rows with 5 element(s) of difference: 2
+Number of rows with 7 element(s) of difference: 2
+Number of rows with 10 element(s) of difference: 1
+Number of rows with 11 element(s) of difference: 1
+
+Detailed differences and their counts:
+('EasternAfrica', 'EasternAsia', 'MiddleAfrica', 'NorthernAmerica', 'NorthernEurope', 'South-easternAsia', 'SouthernAfrica', 'SouthernAsia', 'WesternAfrica', 'WesternAsia', 'WesternEurope'): 1
+('Caribbean', 'EasternAfrica', 'NorthernAfrica', 'South-easternAsia', 'SouthAmerica', 'SouthernAfrica', 'SouthernAsia', 'SouthernEurope', 'WesternAfrica', 'WesternAsia'): 1
+('AustraliaandNewZealand', 'EasternAsia', 'EasternEurope', 'NorthernAmerica', 'NorthernEurope', 'South-easternAsia', 'WesternAsia'): 1
+('AustraliaandNewZealand', 'EasternAsia', 'NorthernAmerica', 'NorthernEurope', 'SouthAmerica', 'SouthernAfrica', 'SouthernEurope'): 1
+('EasternAsia', 'SouthAmerica', 'SouthernEurope', 'WesternAsia', 'WesternEurope'): 1
+('AustraliaandNewZealand', 'EasternAsia', 'NorthernAmerica', 'South-easternAsia', 'SouthernAsia'): 1
+('EasternAsia', 'SouthAmerica', 'SouthernAfrica', 'SouthernAsia'): 1
+('EasternEurope', 'NorthernAmerica', 'SouthernEurope', 'WesternEurope'): 1
+('EasternAsia', 'NorthernEurope', 'SouthernEurope', 'WesternEurope'): 1
+('EasternEurope', 'NorthernEurope', 'WesternAsia', 'WesternEurope'): 1
+('NorthernAmerica', 'SouthAmerica', 'SouthernEurope', 'WesternAsia'): 1
+('EasternAsia', 'NorthernAfrica', 'SouthernAsia', 'WesternAsia'): 1
+('EasternEurope', 'SouthAmerica', 'SouthernAfrica', 'WesternAsia'): 1
+('EasternEurope', 'NorthernEurope', 'SouthAmerica', 'SouthernEurope'): 1
+('SouthernAsia', 'SouthernEurope', 'WesternAfrica', 'WesternAsia'): 1
+('Caribbean', 'EasternEurope', 'NorthernAmerica', 'SouthernEurope'): 2
+('AustraliaandNewZealand', 'NorthernEurope', 'WesternEurope'): 1
+('NorthernEurope', 'SouthernEurope', 'WesternAsia'): 1
+('NorthernAmerica', 'NorthernEurope', 'SouthernAfrica'): 1
+('EasternAsia', 'NorthernAmerica', 'NorthernEurope'): 1
+('NorthernAmerica', 'SouthAmerica', 'WesternEurope'): 1
+('NorthernAmerica', 'South-easternAsia', 'SouthernEurope'): 1
+('CentralAmerica', 'NorthernAmerica', 'SouthernEurope'): 1
+('AustraliaandNewZealand', 'NorthernAmerica', 'NorthernEurope'): 1
+('AustraliaandNewZealand', 'EasternAsia', 'WesternEurope'): 1
+('EasternEurope', 'NorthernEurope', 'SouthernEurope'): 1
+('EasternAfrica', 'NorthernAmerica', 'NorthernEurope'): 1
+('EasternEurope', 'SouthernEurope', 'WesternEurope'): 1
+('EasternAsia', 'NorthernAmerica', 'WesternAsia'): 1
+('EasternAsia', 'NorthernEurope', 'WesternEurope'): 1
+('NorthernEurope', 'SouthernAsia', 'WesternEurope'): 1
+('NorthernAmerica', 'SouthernEurope', 'WesternEurope'): 1
+('Caribbean', 'SouthernEurope', 'WesternAsia'): 1
+('EasternAsia', 'South-easternAsia', 'SouthernEurope'): 1
+('AustraliaandNewZealand', 'MiddleAfrica', 'SouthernAsia'): 1
+('EasternEurope', 'WesternAsia', 'WesternEurope'): 1
+('NorthernAmerica', 'SouthernAsia', 'SouthernEurope'): 1
+('EasternAsia', 'SouthernAfrica', 'WesternEurope'): 1
+('EasternAsia', 'SouthernEurope', 'WesternEurope'): 1
+('EasternEurope', 'NorthernAmerica', 'WesternAsia'): 1
+('AustraliaandNewZealand', 'WesternAsia', 'WesternEurope'): 1
+('EasternAsia', 'South-easternAsia', 'WesternEurope'): 1
+('NorthernEurope', 'WesternAsia', 'WesternEurope'): 1
+('EasternAsia', 'EasternEurope', 'WesternEurope'): 1
+('MiddleAfrica', 'SouthernAfrica', 'WesternAfrica'): 1
+('CentralAmerica', 'NorthernAmerica', 'WesternEurope'): 1
+('Caribbean', 'CentralAmerica', 'NorthernAmerica'): 2
+('EasternAsia', 'EasternEurope', 'NorthernEurope'): 2
+('NorthernAmerica', 'NorthernEurope', 'WesternEurope'): 2
+('AustraliaandNewZealand', 'NorthernAmerica', 'WesternEurope'): 2
+('NorthernAfrica', 'SouthernEurope', 'WesternEurope'): 2
+('South-easternAsia', 'WesternAfrica'): 1
+('EasternEurope', 'WesternAsia'): 1
+('EasternAsia', 'SouthAmerica'): 1
+('AustraliaandNewZealand', 'SouthAmerica'): 1
+('NorthernEurope', 'South-easternAsia'): 1
+('AustraliaandNewZealand', 'WesternEurope'): 1
+('EasternAfrica', 'NorthernAfrica'): 1
+('MiddleAfrica', 'NorthernEurope'): 1
+('NorthernAmerica', 'WesternAfrica'): 1
+('AustraliaandNewZealand', 'Caribbean'): 1
+('EasternAfrica', 'SouthernAsia'): 1
+('NorthernAmerica', 'South-easternAsia'): 1
+('South-easternAsia', 'WesternAsia'): 1
+('EasternAfrica', 'SouthernAfrica'): 1
+('Caribbean', 'SouthernAsia'): 1
+('SouthernAfrica', 'SouthernAsia'): 1
+('EasternAfrica', 'WesternAfrica'): 1
+('SouthernEurope', 'WesternAfrica'): 1
+('South-easternAsia', 'SouthernAsia'): 1
+('NorthernAfrica', 'NorthernEurope'): 1
+('EasternAsia', 'SouthernAfrica'): 1
+('SouthernAfrica', 'WesternEurope'): 1
+('SouthAmerica', 'SouthernAfrica'): 1
+('CentralAmerica', 'WesternEurope'): 1
+('NorthernEurope', 'SouthernAfrica'): 1
+('CentralAsia', 'NorthernAmerica'): 1
+('NorthernAfrica', 'SouthernEurope'): 2
+('Caribbean', 'SouthAmerica'): 2
+('South-easternAsia', 'WesternEurope'): 2
+('Caribbean', 'NorthernAmerica'): 2
+('MiddleAfrica', 'WesternAsia'): 2
+('AustraliaandNewZealand', 'South-easternAsia'): 2
+('AustraliaandNewZealand', 'NorthernEurope'): 2
+('EasternAsia', 'MiddleAfrica'): 2
+('NorthernAmerica', 'SouthernAsia'): 2
+('SouthAmerica', 'SouthernEurope'): 2
+('NorthernEurope', 'WesternAsia'): 2
+('SouthernAsia', 'WesternAsia'): 2
+('EasternAfrica', 'NorthernAmerica'): 2
+('NorthernEurope', 'SouthAmerica'): 2
+('EasternAsia', 'NorthernEurope'): 2
+('CentralAmerica', 'NorthernEurope'): 3
+('EasternEurope', 'SouthernEurope'): 3
+('SouthAmerica', 'WesternEurope'): 3
+('EasternAsia', 'South-easternAsia'): 4
+('EasternAsia', 'NorthernAmerica'): 4
+('WesternAsia', 'WesternEurope'): 4
+('NorthernAmerica', 'SouthAmerica'): 4
+('NorthernAmerica', 'SouthernAfrica'): 4
+('EasternEurope', 'NorthernAmerica'): 4
+('EasternEurope', 'WesternEurope'): 4
+('SouthernEurope', 'WesternAsia'): 4
+('CentralAmerica', 'SouthernEurope'): 5
+('NorthernEurope', 'SouthernAsia'): 5
+('Caribbean', 'WesternEurope'): 6
+('CentralAmerica', 'SouthAmerica'): 7
+('NorthernAmerica', 'WesternAsia'): 7
+('AustraliaandNewZealand', 'NorthernAmerica'): 8
+('SouthernEurope', 'WesternEurope'): 9
+('NorthernEurope', 'SouthernEurope'): 10
+('CentralAmerica', 'NorthernAmerica'): 10
+('EasternAsia', 'WesternEurope'): 11
+('EasternAsia', 'EasternEurope'): 11
+('NorthernAmerica', 'WesternEurope'): 14
+('NorthernAmerica', 'SouthernEurope'): 17
+('EasternEurope', 'South-easternAsia'): 22
+('NorthernEurope', 'WesternEurope'): 27
+('NorthernAmerica', 'NorthernEurope'): 30
+('Melanesia',): 1
+('Polynesia',): 1
+('MiddleAfrica',): 11
+('CentralAsia',): 11
+('EasternAfrica',): 18
+('WesternAfrica',): 29
+('NorthernAfrica',): 39
+('SouthernAfrica',): 40
+('Caribbean',): 49
+('SouthernAsia',): 59
+('South-easternAsia',): 86
+('EasternAsia',): 129
+('WesternAsia',): 136
+('CentralAmerica',): 177
+('EasternEurope',): 195
+('SouthernEurope',): 197
+('SouthAmerica',): 202
+('WesternEurope',): 324
+('AustraliaandNewZealand',): 429
+('NorthernEurope',): 1348
+('NorthernAmerica',): 1550

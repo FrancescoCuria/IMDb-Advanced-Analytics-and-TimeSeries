@@ -1,0 +1,250 @@
+﻿Continent,Region,Country,Code
+ Asia, Southern Asia,Afghanistan,AF
+ Europe, Northern Europe,Åland Islands,AX
+ Europe, Southern Europe,Albania,AL
+ Africa, Northern Africa,Algeria,DZ
+ Oceania, Polynesia,American Samoa,AS
+ Europe, Southern Europe,Andorra,AD
+ Africa, Middle Africa,Angola,AO
+ Americas, Caribbean,Anguilla,AI
+ Americas, Northern America,Antarctica,AQ
+ Americas, Caribbean,Antigua and Barbuda,AG
+ Americas, South America,Argentina,AR
+ Asia, Western Asia,Armenia,AM
+ Americas, Caribbean,Aruba,AW
+ Oceania, Australia and New Zealand,Australia,AU
+ Europe, Western Europe,Austria,AT
+ Asia, Western Asia,Azerbaijan,AZ
+ Americas, Caribbean,Bahamas,BS
+ Asia, Western Asia,Bahrain,BH
+ Asia, Southern Asia,Bangladesh,BD
+ Americas, Caribbean,Barbados,BB
+ Europe, Eastern Europe,Belarus,BY
+ Europe, Western Europe,Belgium,BE
+ Americas, Central America,Belize,BZ
+ Africa, Western Africa,Benin,BJ
+ Americas, Northern America,Bermuda,BM
+ Asia, Southern Asia,Bhutan,BT
+ Americas, South America,Bolivia (Plurinational State of),BO
+ Americas, Caribbean,"Bonaire, Sint Eustatius and Saba",BQ
+ Europe, Southern Europe,Bosnia and Herzegovina,BA
+ Africa, Southern Africa,Botswana,BW
+ Americas, South America,Bouvet Island,BV
+ Americas, South America,Brazil,BR
+ Africa, Eastern Africa,British Indian Ocean Territory,IO
+ Americas, Caribbean,British Virgin Islands,VG
+ Asia, South-eastern Asia,Brunei Darussalam,BN
+ Europe, Eastern Europe,Bulgaria,BG
+ Africa, Western Africa,Burkina Faso,BF
+ Africa, Eastern Africa,Burundi,BI
+ Africa, Western Africa,Cabo Verde,CV
+ Asia, South-eastern Asia,Cambodia,KH
+ Africa, Middle Africa,Cameroon,CM
+ Americas, Northern America,Canada,CA
+ Americas, Caribbean,Cayman Islands,KY
+ Africa, Middle Africa,Central African Republic,CF
+ Oceania, Australia and New Zealand,Cocos (Keeling) Islands,CC
+ Americas, South America,Colombia,CO
+ Africa, Eastern Africa,Comoros,KM
+ Africa, Middle Africa,Congo,CG
+ Oceania, Polynesia,Cook Islands,CK
+ Americas, Central America,Costa Rica,CR
+ Africa, Western Africa,Côte d’Ivoire,CI
+ Europe, Southern Europe,Croatia,HR
+ Americas, Caribbean,Cuba,CU
+ Americas, Caribbean,Curaçao,CW
+ Asia, Western Asia,Cyprus,CY
+ Europe, Eastern Europe,Czechia,CZ
+ Asia, Eastern Asia,Democratic People's Republic of Korea,KP
+ Africa, Middle Africa,Democratic Republic of the Congo,CD
+ Europe, Northern Europe,Denmark,DK
+ Africa, Eastern Africa,Djibouti,DJ
+ Americas, Caribbean,Dominica,DM
+ Americas, Caribbean,Dominican Republic,DO
+ Americas, South America,Ecuador,EC
+ Africa, Northern Africa,Egypt,EG
+ Americas, Central America,El Salvador,SV
+ Africa, Middle Africa,Equatorial Guinea,GQ
+ Africa, Eastern Africa,Eritrea,ER
+ Europe, Northern Europe,Estonia,EE
+ Africa, Southern Africa,Eswatini,SZ
+ Africa, Eastern Africa,Ethiopia,ET
+ Americas, South America,Falkland Islands (Malvinas),FK
+ Europe, Northern Europe,Faroe Islands,FO
+ Oceania, Melanesia,Fiji,FJ
+ Europe, Northern Europe,Finland,FI
+ Europe, Western Europe,France,FR
+ Americas, South America,French Guiana,GF
+ Oceania, Polynesia,French Polynesia,PF
+ Africa, Eastern Africa,French Southern Territories,TF
+ Africa, Middle Africa,Gabon,GA
+ Africa, Western Africa,Gambia,GM
+ Asia, Western Asia,Georgia,GE
+ Europe, Western Europe,Germany,DE
+ Africa, Western Africa,Ghana,GH
+ Europe, Southern Europe,Gibraltar,GI
+ Europe, Southern Europe,Greece,GR
+ Americas, Northern America,Greenland,GL
+ Americas, Caribbean,Grenada,GD
+ Americas, Caribbean,Guadeloupe,GP
+ Oceania, Micronesia,Guam,GU
+ Americas, Central America,Guatemala,GT
+ Europe, Northern Europe,Guernsey,GG
+ Africa, Western Africa,Guinea,GN
+ Africa, Western Africa,Guinea-Bissau,GW
+ Americas, South America,Guyana,GY
+ Americas, Caribbean,Haiti,HT
+ Oceania, Australia and New Zealand,Heard Island and McDonald Islands,HM
+ Europe, Southern Europe,Holy See,VA
+ Americas, Central America,Honduras,HN
+ Europe, Eastern Europe,Hungary,HU
+ Africa, Middle Africa,Chad,TD
+ Americas, South America,Chile,CL
+ Asia, Eastern Asia,China,CN
+ Asia, Eastern Asia,"China, Hong Kong Special Administrative Region",HK
+ Asia, Eastern Asia,"China, Macao Special Administrative Region",MO
+ Oceania, Australia and New Zealand,Christmas Island,CX
+ Europe, Northern Europe,Iceland,IS
+ Asia, Southern Asia,India,IN
+ Asia, South-eastern Asia,Indonesia,ID
+ Asia, Southern Asia,Iran (Islamic Republic of),IR
+ Asia, Western Asia,Iraq,IQ
+ Europe, Northern Europe,Ireland,IE
+ Europe, Northern Europe,Isle of Man,IM
+ Asia, Western Asia,Israel,IL
+ Europe, Southern Europe,Italy,IT
+ Americas, Caribbean,Jamaica,JM
+ Asia, Eastern Asia,Japan,JP
+ Europe, Northern Europe,Jersey,JE
+ Asia, Western Asia,Jordan,JO
+ Asia, Central Asia,Kazakhstan,KZ
+ Africa, Eastern Africa,Kenya,KE
+ Oceania, Micronesia,Kiribati,KI
+ Asia, Western Asia,Kuwait,KW
+ Asia, Central Asia,Kyrgyzstan,KG
+ Asia, South-eastern Asia,Lao People's Democratic Republic,LA
+ Europe, Northern Europe,Latvia,LV
+ Asia, Western Asia,Lebanon,LB
+ Africa, Southern Africa,Lesotho,LS
+ Africa, Western Africa,Liberia,LR
+ Africa, Northern Africa,Libya,LY
+ Europe, Western Europe,Liechtenstein,LI
+ Europe, Northern Europe,Lithuania,LT
+ Europe, Western Europe,Luxembourg,LU
+ Africa, Eastern Africa,Madagascar,MG
+ Africa, Eastern Africa,Malawi,MW
+ Asia, South-eastern Asia,Malaysia,MY
+ Asia, Southern Asia,Maldives,MV
+ Africa, Western Africa,Mali,ML
+ Europe, Southern Europe,Malta,MT
+ Oceania, Micronesia,Marshall Islands,MH
+ Americas, Caribbean,Martinique,MQ
+ Africa, Western Africa,Mauritania,MR
+ Africa, Eastern Africa,Mauritius,MU
+ Africa, Eastern Africa,Mayotte,YT
+ Americas, Central America,Mexico,MX
+ Oceania, Micronesia,Micronesia (Federated States of),FM
+ Europe, Western Europe,Monaco,MC
+ Asia, Eastern Asia,Mongolia,MN
+ Europe, Southern Europe,Montenegro,ME
+ Americas, Caribbean,Montserrat,MS
+ Africa, Northern Africa,Morocco,MA
+ Africa, Eastern Africa,Mozambique,MZ
+ Asia, South-eastern Asia,Myanmar,MM
+ Africa, Southern Africa,Namibia,NA
+ Oceania, Micronesia,Nauru,NR
+ Asia, Southern Asia,Nepal,NP
+ Europe, Western Europe,Netherlands (Kingdom of the),NL
+ Oceania, Melanesia,New Caledonia,NC
+ Oceania, Australia and New Zealand,New Zealand,NZ
+ Americas, Central America,Nicaragua,NI
+ Africa, Western Africa,Niger,NE
+ Africa, Western Africa,Nigeria,NG
+ Oceania, Polynesia,Niue,NU
+ Oceania, Australia and New Zealand,Norfolk Island,NF
+ Europe, Southern Europe,North Macedonia,MK
+ Oceania, Micronesia,Northern Mariana Islands,MP
+ Europe, Northern Europe,Norway,NO
+ Asia, Western Asia,Oman,OM
+ Asia, Southern Asia,Pakistan,PK
+ Oceania, Micronesia,Palau,PW
+ Americas, Central America,Panama,PA
+ Oceania, Melanesia,Papua New Guinea,PG
+ Americas, South America,Paraguay,PY
+ Americas, South America,Peru,PE
+ Asia, South-eastern Asia,Philippines,PH
+ Oceania, Polynesia,Pitcairn,PN
+ Europe, Eastern Europe,Poland,PL
+ Europe, Southern Europe,Portugal,PT
+ Americas, Caribbean,Puerto Rico,PR
+ Asia, Western Asia,Qatar,QA
+ Asia, Eastern Asia,Republic of Korea,KR
+ Europe, Eastern Europe,Republic of Moldova,MD
+ Africa, Eastern Africa,Réunion,RE
+ Europe, Eastern Europe,Romania,RO
+ Europe, Eastern Europe,Russian Federation,RU
+ Africa, Eastern Africa,Rwanda,RW
+ Americas, Caribbean,Saint Barthélemy,BL
+ Africa, Western Africa,Saint Helena,SH
+ Americas, Caribbean,Saint Kitts and Nevis,KN
+ Americas, Caribbean,Saint Lucia,LC
+ Americas, Caribbean,Saint Martin (French Part),MF
+ Americas, Northern America,Saint Pierre and Miquelon,PM
+ Americas, Caribbean,Saint Vincent and the Grenadines,VC
+ Oceania, Polynesia,Samoa,WS
+ Europe, Southern Europe,San Marino,SM
+ Africa, Middle Africa,Sao Tome and Principe,ST
+ Asia, Western Asia,Saudi Arabia,SA
+ Africa, Western Africa,Senegal,SN
+ Europe, Southern Europe,Serbia,RS
+ Africa, Eastern Africa,Seychelles,SC
+ Africa, Western Africa,Sierra Leone,SL
+ Asia, South-eastern Asia,Singapore,SG
+ Americas, Caribbean,Sint Maarten (Dutch part),SX
+ Europe, Eastern Europe,Slovakia,SK
+ Europe, Southern Europe,Slovenia,SI
+ Oceania, Melanesia,Solomon Islands,SB
+ Africa, Eastern Africa,Somalia,SO
+ Africa, Southern Africa,South Africa,ZA
+ Americas, South America,South Georgia and the South Sandwich Islands,GS
+ Africa, Eastern Africa,South Sudan,SS
+ Europe, Southern Europe,Spain,ES
+ Asia, Southern Asia,Sri Lanka,LK
+ Asia, Western Asia,State of Palestine,PS
+ Africa, Northern Africa,Sudan,SD
+ Americas, South America,Suriname,SR
+ Europe, Northern Europe,Svalbard and Jan Mayen Islands,SJ
+ Europe, Northern Europe,Sweden,SE
+ Europe, Western Europe,Switzerland,CH
+ Asia, Western Asia,Syrian Arab Republic,SY
+ Asia, Central Asia,Tajikistan,TJ
+ Asia, South-eastern Asia,Thailand,TH
+ Asia, South-eastern Asia,Timor-Leste,TL
+ Africa, Western Africa,Togo,TG
+ Oceania, Polynesia,Tokelau,TK
+ Oceania, Polynesia,Tonga,TO
+ Americas, Caribbean,Trinidad and Tobago,TT
+ Africa, Northern Africa,Tunisia,TN
+ Asia, Western Asia,Türkiye,TR
+ Asia, Central Asia,Turkmenistan,TM
+ Americas, Caribbean,Turks and Caicos Islands,TC
+ Oceania, Polynesia,Tuvalu,TV
+ Africa, Eastern Africa,Uganda,UG
+ Europe, Eastern Europe,Ukraine,UA
+ Asia, Western Asia,United Arab Emirates,AE
+ Europe, Northern Europe,United Kingdom of Great Britain and Northern Ireland,GB
+ Africa, Eastern Africa,United Republic of Tanzania,TZ
+ Oceania, Micronesia,United States Minor Outlying Islands,UM
+ Americas, Northern America,United States of America,US
+ Americas, Caribbean,United States Virgin Islands,VI
+Unknown,Unknown,Unknown,Un
+ Americas, South America,Uruguay,UY
+ Asia, Central Asia,Uzbekistan,UZ
+ Oceania, Melanesia,Vanuatu,VU
+ Americas, South America,Venezuela (Bolivarian Republic of),VE
+ Asia, South-eastern Asia,Viet Nam,VN
+ Oceania, Polynesia,Wallis and Futuna Islands,WF
+ Africa, Northern Africa,Western Sahara,EH
+ Asia, Western Asia,Yemen,YE
+ Africa, Eastern Africa,Zambia,ZM
+ Africa, Eastern Africa,Zimbabwe,ZW
