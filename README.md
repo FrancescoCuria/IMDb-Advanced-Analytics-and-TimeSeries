@@ -1,7 +1,7 @@
 # IMDb Advanced Analytics, Time Series & XAI
 
 ## Overview
-This repository contains an advanced Data Mining and Machine Learning project based on an expanded **IMDb database** (over 130,000 observations across 45 variables). The workflow tackles complex real-world data challenges, including severe class imbalance, multidimensional outlier detection, Time Series classification, and Explainable AI (XAI).
+This repository contains an advanced Data Mining and Machine Learning project based on an expanded **IMDb database** (over 130,000 observations across 45 variables). The workflow tackles complex real-world data challenges, including severe class imbalance, multidimensional outlier detection, Time Series classification, and Explainable AI (XAI). **[Read the full Project Report (PDF)](IMDbAdvancedProjectReport.pdf)**
 
 ## Project Workflow & Architecture
 
