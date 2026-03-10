@@ -11,7 +11,7 @@ This repository contains an advanced Data Mining and Machine Learning project ba
 
 ### 2. Imbalanced Learning & Classification
 * Tackled severe class imbalances (e.g., `tvSeries` vs. `Video`, top vs. low ratings) using specialized sampling techniques.
-* Trained and evaluated high-performance classifiers including **Logistic Regression, SVM, Ensembles (Bagging), XGBoost, and Neural Networks**.
+* Trained and evaluated high-performance classifiers including **Logistic Regression, SVM, Ensembles (Bagging, Random Forest, AdaBoost), XGBoost and Neural Networks**.
 
 ### 3. Explainable AI (XAI)
 * Integrated **SHAP** and **LORE** to interpret the predictive logic of "black-box" models.
