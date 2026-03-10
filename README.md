@@ -24,7 +24,7 @@ Processed and analyzed sequential/temporal data associated with IMDb records:
 * **Advanced Temporal Classification**: Deployed Shapelets-based models, K-NN, and the **ROCKET** (RandOm Convolutional KErnel Transform) algorithm for state-of-the-art time series classification.
 
 ## Tech Stack
-* **Language**: Python
+* **Language**: Python (Pandas, Matplotlib, Seaborn, NumPy, SciPy)
 * **Advanced Machine Learning**: Scikit-Learn, XGBoost, TensorFlow, Keras
 * **Time Series Analysis**: TsLearn, SkTime
 * **Explainable AI (XAI)**: SHAP, LORE
