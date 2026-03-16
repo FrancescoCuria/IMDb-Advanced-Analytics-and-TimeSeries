@@ -26,5 +26,5 @@ Processed and analyzed sequential/temporal data associated with IMDb records:
 ## Tech Stack
 * **Language**: Python (Pandas, Matplotlib, Seaborn, NumPy, SciPy)
 * **Advanced Machine Learning**: Scikit-Learn, XGBoost, TensorFlow, Keras
-* **Time Series Analysis**: TsLearn, SkTime
+* **Time Series Analysis**: Tslearn, Sktime
 * **Explainable AI (XAI)**: SHAP, LORE
